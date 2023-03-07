@@ -9,7 +9,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>鲁大二手工坊</title>
+    <title>校园闲置二手回收平台</title>
     <link rel="icon" href="<%=basePath%>img/logo.jpg" type="image/x-icon"/>
     <link rel="stylesheet" href="<%=basePath%>css/index.css" />
     <script type="text/javascript" src="<%=basePath%>js/jquery.js" ></script>
@@ -117,9 +117,9 @@
     <nav class="white nav1">
         <div class="nav-wrapper">
             <a href="<%=basePath%>goods/homeGoods" class="logo">
-                <em class="em1">鲁大</em>
-                <em class="em2">二手工坊</em>
-                <em class="em3">ldu.market</em>
+                <em class="em1">校园</em>
+                <em class="em2">闲置二手回收平台</em>
+                <em class="em3">guangli.market</em>
             </a>
             <div class="nav-wrapper search-bar">
                 <form class="ng-pristine ng-invalid ng-invalid-required" action="<%=basePath%>goods/search">
@@ -338,7 +338,7 @@
     <div class="info">
         <a href="" target="_blank">关于我们</a><em>-</em>
         <a href="">联系我们</a>
-        <p>©2018 鲁大二手工坊</p>
+        <p>©2018 校园闲置二手回收平台</p>
     </div>
 </div>
 <!--
@@ -358,11 +358,11 @@
                         <div class="bannerimg">
                             <ul class="bannerul">
                                 <p class="text1">Hello：</p>
-                                <p class="text2">欢迎来到鲁东大学secondHandMarket校园二手工坊。临近毕业季的</p>
+                                <p class="text2">欢迎来到校园闲置二手回收平台。临近毕业季的</p>
                                 <p class="text3">你，是否有太多的闲置与校友分享，为了追求更好的校园服</p>
-                                <p class="text4">务，我们打造了一个全新的校园平台——<span>鲁大二手工坊</p>
+                                <p class="text4">务，我们打造了一个全新的校园平台——<span>校园闲置二手回收平台</p>
                                 <p class="text5">这里有更多的闲置分享，更自由的校园话题讨论，你想要的，都在这里。</p>
-                                <p class="text6">加入LDU-SecondHandMarket，你的大学，应更精彩。</p>
+                                <p class="text6">加入校园闲置二手回收平台，你的大学，应更精彩。</p>
                             </ul>
                           <!--   <div class="logoimg">
                                 <img src="../img/p_logo.jpg" />

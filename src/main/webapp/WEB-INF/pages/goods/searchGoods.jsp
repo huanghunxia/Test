@@ -9,7 +9,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>鲁大二手工坊</title>
+    <title>校园闲置二手回收平台</title>
     <link rel="icon" href="<%=basePath%>img/logo.jpg" type="image/x-icon"/>
     <link rel="stylesheet" href="<%=basePath%>css/index.css" />
     <script type="text/javascript" src="<%=basePath%>js/jquery.js" ></script>
@@ -54,9 +54,9 @@
     <nav class="white nav1">
         <div class="nav-wrapper">
             <a href="<%=basePath%>goods/homeGoods" class="logo">
-                <em class="em1">鲁大</em>
-                <em class="em2">二手工坊</em>
-                <em class="em3">ldu.market</em>
+                <em class="em1">校园</em>
+                <em class="em2">闲置二手回收平台</em>
+                <em class="em3">guangli.market</em>
             </a>
             <div class="nav-wrapper search-bar">
                 <form submit="search()" class="ng-pristine ng-invalid ng-invalid-required" action="<%=basePath%>goods/search">
