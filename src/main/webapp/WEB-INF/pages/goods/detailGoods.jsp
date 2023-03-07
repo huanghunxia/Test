@@ -267,7 +267,7 @@
             <p class="bargain">可讲价</p>
             <p>
                 <i class="iconfont"></i>
-                <em class="item-location">鲁东大学</em>
+                <em class="item-location">广东理工学院</em>
             </p>
         </div>
         <div class="publisher-info-title">
