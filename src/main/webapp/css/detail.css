@@ -1,4 +1,4 @@
-@charset "UTF-8"; 
+@charset "UTF-8";
 
 .clearfix, .row:after, .toast {
 	clear: both
@@ -10603,7 +10603,7 @@ div.login.stark-components .publish-box>.row {
 }
 
 div.login.stark-components .publish-box .title {
-	background: url(../img/title.png);
+	background: url(../img/title2.png);
 	background-size: contain;
 	height: 100px
 }
@@ -10667,7 +10667,7 @@ div.signup.stark-components .publish-box>.row {
 }
 
 div.signup.stark-components .publish-box .title {
-	background: url(../img/title.png);
+	background: url(../img/title2.png);
 	background-size: contain;
 	height: 100px
 }
@@ -12161,7 +12161,7 @@ to {
 ,
 .9
 )
- 
+
 rotate3d
 (0
 ,
@@ -12176,7 +12176,7 @@ deg
 ,
 .9
 )
- 
+
 rotate3d
 (0
 ,
@@ -12196,7 +12196,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -12213,7 +12213,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -12233,7 +12233,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -12250,7 +12250,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -12275,7 +12275,7 @@ keyframes tada {
 ,
 .9
 )
- 
+
 rotate3d
 (0
 ,
@@ -12290,7 +12290,7 @@ deg
 ,
 .9
 )
- 
+
 rotate3d
 (0
 ,
@@ -12310,7 +12310,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -12327,7 +12327,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -12347,7 +12347,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -12364,7 +12364,7 @@ deg
 1
 .1
 )
- 
+
 rotate3d
 (0
 ,
@@ -14407,14 +14407,14 @@ to {
 40%{
 -webkit-transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14422,14 +14422,14 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14443,14 +14443,14 @@ deg
 50%{
 -webkit-transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14458,14 +14458,14 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14479,7 +14479,7 @@ deg
 80%{
 -webkit-transform
 :perspective(400px)
- 
+
 scale3d
 (
 .95
@@ -14489,7 +14489,7 @@ scale3d
 .95
 );transform
 :perspective(400px)
- 
+
 scale3d
 (
 .95
@@ -14521,14 +14521,14 @@ keyframes flip {
 40%{
 -webkit-transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14536,14 +14536,14 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14557,14 +14557,14 @@ deg
 50%{
 -webkit-transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14572,14 +14572,14 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 translate3d
 (0
 ,
 0,150
 px
 )
- 
+
 rotate3d
 (0
 ,
@@ -14593,7 +14593,7 @@ deg
 80%{
 -webkit-transform
 :perspective(400px)
- 
+
 scale3d
 (
 .95
@@ -14603,7 +14603,7 @@ scale3d
 .95
 );transform
 :perspective(400px)
- 
+
 scale3d
 (
 .95
@@ -14643,7 +14643,7 @@ to {
 40%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14651,7 +14651,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14665,7 +14665,7 @@ deg
 60%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14673,7 +14673,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14686,7 +14686,7 @@ deg
 80%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14694,7 +14694,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14720,7 +14720,7 @@ keyframes flipInX {
 40%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14728,7 +14728,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14742,7 +14742,7 @@ deg
 60%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14750,7 +14750,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14763,7 +14763,7 @@ deg
 80%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14771,7 +14771,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14808,7 +14808,7 @@ to {
 40%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14816,7 +14816,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14830,7 +14830,7 @@ deg
 60%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14838,7 +14838,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14851,7 +14851,7 @@ deg
 80%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14859,7 +14859,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14885,7 +14885,7 @@ keyframes flipInY {
 40%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14893,7 +14893,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14907,7 +14907,7 @@ deg
 60%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14915,7 +14915,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14928,7 +14928,7 @@ deg
 80%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14936,7 +14936,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -14965,7 +14965,7 @@ to {
 30%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14973,7 +14973,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -14999,7 +14999,7 @@ keyframes flipOutX {
 30%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -15007,7 +15007,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (1
 ,
@@ -15039,7 +15039,7 @@ to {
 30%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -15047,7 +15047,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -15073,7 +15073,7 @@ keyframes flipOutY {
 30%{
 -webkit-transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -15081,7 +15081,7 @@ rotate3d
 deg
 );transform
 :perspective(400px)
- 
+
 rotate3d
 (0
 ,
@@ -15620,11 +15620,11 @@ deg
 deg
 );-webkit-transform-origin
 :top
- 
+
 left
 ;transform-origin
 :top
- 
+
 left
 ;-webkit-animation-timing-function
 :ease-in-out
@@ -15646,11 +15646,11 @@ deg
 deg
 );-webkit-transform-origin
 :top
- 
+
 left
 ;transform-origin
 :top
- 
+
 left
 ;-webkit-animation-timing-function
 :ease-in-out
@@ -15690,11 +15690,11 @@ deg
 deg
 );-webkit-transform-origin
 :top
- 
+
 left
 ;transform-origin
 :top
- 
+
 left
 ;-webkit-animation-timing-function
 :ease-in-out
@@ -15716,11 +15716,11 @@ deg
 deg
 );-webkit-transform-origin
 :top
- 
+
 left
 ;transform-origin
 :top
- 
+
 left
 ;-webkit-animation-timing-function
 :ease-in-out
@@ -15856,7 +15856,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
@@ -15873,7 +15873,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
@@ -15924,7 +15924,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
@@ -15941,7 +15941,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
@@ -15997,7 +15997,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (10px
 ,
@@ -16011,7 +16011,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (10px
 ,
@@ -16059,7 +16059,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (10px
 ,
@@ -16073,7 +16073,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (10px
 ,
@@ -16126,7 +16126,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (-10px
 ,
@@ -16140,7 +16140,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (-10px
 ,
@@ -16188,7 +16188,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (-10px
 ,
@@ -16202,7 +16202,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (-10px
 ,
@@ -16255,7 +16255,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
@@ -16272,7 +16272,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
@@ -16323,7 +16323,7 @@ opacity
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
@@ -16340,7 +16340,7 @@ transform
 ,
 .475
 )
- 
+
 translate3d
 (0
 ,
